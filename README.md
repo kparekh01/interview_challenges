@@ -10,6 +10,9 @@ Easy set up instructions:
     
 4.  Open up the folder, and go directly to the `/lib` file of the challenge you want to do, and follow instructions
     in the file.  
+
+5.  In the future if you see more callenges on this repo(because I will be updating this repo with new challenges as they come     along), that do not exist in your folder, then simply cd in to this folder in the terminal and run this command:
+    `$git pull origin master`
     
 If you would like to see the tests written for that challenge go to the `spec/lib` and open up the 
 file for the challenge you're working on.  Please do not open the solutions unless you are really stuck, they 
