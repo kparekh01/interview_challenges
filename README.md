@@ -8,7 +8,7 @@ Easy set up instructions:
 3.  Run bundle to install the rspec gem in the event you don't have it installed.
     `$bundle`
     
-4.  Open up the folder, and go directly to the /lib file of the challenge you want to do, and follow instructions
+4.  Open up the folder, and go directly to the `/lib` file of the challenge you want to do, and follow instructions
     in the file.  
     
 If you would like to see the tests written for that challenge go to the `spec/lib` and open up the 
