@@ -2,7 +2,7 @@ Easy set up instructions:
 
 1.  cd in the directory where you want this repo to live.
 
-2.  Clone the repo in that directory via copying and pasting the link below in:
+2.  Clone the repo in that directory via copying and pasting the link below in to your terminal:
     `$git@github.com:kparekh01/interview_challenges.git`
     
 3.  Run bundle to install the rspec gem in the event you don't have it installed.
