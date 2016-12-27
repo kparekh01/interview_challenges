@@ -1,7 +1,8 @@
 require 'IBM_2'
 
 #keep in mind that it is easy to make the tests pass by hardcoding values, but obviously there will be hundreds more TESTS
-#that you won't be able to see, so please concentrate on solving the method for any argument passes, not just the ones on the tests.
+#that you won't be able to see, so please concentrate on solving the method for any argument passed, 
+#not just the ones on the tests.
 
 describe 'IBM_2' do
   describe '#presidentOnDate' do
